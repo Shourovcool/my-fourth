@@ -1,8 +1,9 @@
 h1{
     color:rgb(156, 97, 19);
+    text-align: center;
 }
 .lol{
-    color: cornflowerblue;
+    color: rgb(21, 66, 148);
 }
 p{
     text-align: justify;
@@ -12,4 +13,9 @@ p{
 .forstunt{
     text-align: justify;
     margin-right: 60%;
+}
+.rong{
+    background-color:moccasin ;
+    margin-left: 15%;
+    margin-right: 15%;
 }
